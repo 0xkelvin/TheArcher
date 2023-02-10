@@ -1,0 +1,6 @@
+the_archer/target
+the_archer/Cargo.lock
+/target
+/Cargo.lock
+.DS_Store
+.vscode/

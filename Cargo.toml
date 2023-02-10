@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    # Core statig crates
+    "the_archer",
+]
